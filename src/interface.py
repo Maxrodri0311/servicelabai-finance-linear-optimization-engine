@@ -125,7 +125,7 @@ class OpenPyXLExecutiveWorkbookGenerator(ExecutiveWorkbookProtocol):
         # Main Title Banner
         ws.merge_cells("B2:H2")
         title_cell = ws["B2"]
-        title_cell.value = "SERVICELAB AI — EXECUTIVE SLA INCIDENT DISPATCH & LOSS OPTIMIZATION SUITE"
+        title_cell.value = "FinOps & Strategic Consulting Practice — EXECUTIVE SLA INCIDENT DISPATCH & LOSS OPTIMIZATION SUITE"
         title_cell.font = Font(name="Calibri", size=14, bold=True, color=self.WHITE)
         title_cell.fill = PatternFill(start_color=self.NAVY_HEADER, end_color=self.NAVY_HEADER, fill_type="solid")
         title_cell.alignment = Alignment(horizontal="center", vertical="center")
@@ -145,7 +145,7 @@ class OpenPyXLExecutiveWorkbookGenerator(ExecutiveWorkbookProtocol):
 
         # Metadata Row
         meta_items = [
-            ("Platform / Client", "Servicelab AI Mission-Critical AIOps"),
+            ("Platform / Client", "FinOps & Strategic Consulting Practice Mission-Critical AIOps"),
             ("Optimization ID", result.optimization_id),
             ("Optimization Date", result.solved_at.strftime("%Y-%m-%d %H:%M UTC")),
             ("Solver Engine", "HiGHS LP (Interior Point / Dual Simplex)"),
@@ -325,7 +325,7 @@ class OpenPyXLExecutiveWorkbookGenerator(ExecutiveWorkbookProtocol):
         # Header Title
         ws.merge_cells("A1:M1")
         title = ws["A1"]
-        title.value = "SERVICELAB AI — OPERATIONAL INCIDENT DISPATCH & MITIGATION MATRIX"
+        title.value = "FinOps & Strategic Consulting Practice — OPERATIONAL INCIDENT DISPATCH & MITIGATION MATRIX"
         title.font = Font(name="Calibri", size=13, bold=True, color=self.WHITE)
         title.fill = PatternFill(start_color=self.NAVY_HEADER, end_color=self.NAVY_HEADER, fill_type="solid")
         title.alignment = Alignment(horizontal="center", vertical="center")
@@ -467,7 +467,7 @@ class OpenPyXLExecutiveWorkbookGenerator(ExecutiveWorkbookProtocol):
         # Header Title
         ws.merge_cells("A1:G1")
         title = ws["A1"]
-        title.value = "SERVICELAB AI — MULTI-DIMENSIONAL ROLLUPS & DAX DATA CONTRACTS"
+        title.value = "FinOps & Strategic Consulting Practice — MULTI-DIMENSIONAL ROLLUPS & DAX DATA CONTRACTS"
         title.font = Font(name="Calibri", size=13, bold=True, color=self.WHITE)
         title.fill = PatternFill(start_color=self.NAVY_HEADER, end_color=self.NAVY_HEADER, fill_type="solid")
         title.alignment = Alignment(horizontal="center", vertical="center")
@@ -674,7 +674,7 @@ def export_executive_report(
     )
 
     print("\n" + "=" * 78)
-    print(" [✓] SERVICELAB AI C-LEVEL EXECUTIVE WORKBOOK GENERATED SUCCESSFULLY")
+    print(" [✓] FinOps & Strategic Consulting Practice C-LEVEL EXECUTIVE WORKBOOK GENERATED SUCCESSFULLY")
     print("=" * 78)
     print(f" Artifact Path          : {generated_path}")
     print(f" Optimization Run       : {opt_result.optimization_id}")

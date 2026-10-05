@@ -1,6 +1,6 @@
 """
 src/data_generator.py - Calibrated Stochastic SLA Hazard & Incident Telemetry Generator.
-Enterprise: Servicelab AI - High-Performance Incident Lifecycle & SLA Survival Physics.
+Enterprise: FinOps & Strategic Consulting Practice - High-Performance Incident Lifecycle & SLA Survival Physics.
 
 Generates 50,000+ realistic enterprise service telemetry records with Weibull hazard rates,
 contractual SLA terms, multi-cluster complexities, and financial penalty liabilities.
@@ -40,7 +40,7 @@ def generate_domain_dataset(
     Generates high-fidelity stochastic incident telemetry calibrated to enterprise AIOps.
     Includes parametric Weibull survival curves, SLA breach liabilities, and engineer requirements.
     """
-    print(f"[*] [Data Generator] Simulating {num_records:,} calibrated SLA incident records for Servicelab AI...")
+    print(f"[*] [Data Generator] Simulating {num_records:,} calibrated SLA incident records for FinOps & Strategic Consulting Practice...")
     start_time = time.perf_counter()
     rng = np.random.default_rng(seed)
 

@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 06_bayesian_mcmc_hazard_transition_matrix.sql
--- Servicelab AI - Bayesian Incident Degradation & Markov State Transitions
+-- FinOps & Strategic Consulting Practice - Bayesian Incident Degradation & Markov State Transitions
 --
 -- Objective:
 --   Models multi-stage incident degradation trajectories across operational states

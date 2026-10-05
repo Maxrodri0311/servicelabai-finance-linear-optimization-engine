@@ -1,5 +1,5 @@
 """
-src/domain/entities.py - Pure Domain Models for Servicelab AI SLA Hazard Optimization.
+src/domain/entities.py - Pure Domain Models for FinOps & Strategic Consulting Practice SLA Hazard Optimization.
 Architecture: Clean Architecture & Strict Pydantic Contracts.
 Zero external I/O or vendor infrastructure dependencies.
 """
@@ -20,7 +20,7 @@ class IncidentSeverity(str, Enum):
 
 
 class ServiceCluster(str, Enum):
-    """Servicelab AI Enterprise Infrastructure Clusters."""
+    """FinOps & Strategic Consulting Practice Enterprise Infrastructure Clusters."""
     GPU_INFERENCE_CLUSTER = "GPU Inference Cluster"
     DISTRIBUTED_TRAINING_NODE = "Distributed Training Node"
     API_GATEWAY_ROUTER = "API Gateway Router"

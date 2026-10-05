@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 02_event_triggers.sql
--- Servicelab AI - Event-Driven Telemetry Trigger & Anomaly Audit Engine
+-- FinOps & Strategic Consulting Practice - Event-Driven Telemetry Trigger & Anomaly Audit Engine
 --
 -- Objective:
 --   Automated database trigger that intercepts inserts on service_incident_telemetry

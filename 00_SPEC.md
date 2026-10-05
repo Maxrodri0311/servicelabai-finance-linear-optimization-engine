@@ -1,7 +1,7 @@
-# 📐 SPEC & SYSTEM BLUEPRINT: Servicelab AI SLA Hazard & Linear Optimization Engine
+# 📐 SPEC & SYSTEM BLUEPRINT: FinOps & Strategic Consulting Practice SLA Hazard & Linear Optimization Engine
 
-**Canonical Repository:** `servicelabai-finance-linear-optimization-engine`  
-**Target Enterprise:** Servicelab AI | **Target Role:** Data Scientist  
+**Canonical Repository:** `finops-consulting-linear-optimization-engine`  
+**Target Enterprise:** FinOps & Strategic Consulting Practice | **Target Role:** Data Scientist  
 **Delivery Paradigm:** `C_LEVEL_EXECUTIVE_SUITE` (Institutional OpenPyXL Financial Workbook & DAX Contracts)  
 **Core Algorithmic Paradigm:** `LINEAR_PROGRAMMING` (HiGHS Primal Simplex & Interior Point Solvers)  
 **Perspective:** `Causal & Survival Lifecycle Analytics (CAUSAL_SURVIVAL)` (Weibull Hazard Modeling)  
@@ -11,7 +11,7 @@
 
 ## 🏛️ 1. Executive Summary & Core Business Bottleneck
 
-**Servicelab AI** operates mission-critical AIOps platforms, automated incident triage, and enterprise service lifecycle infrastructure for high-scale computing environments (NVIDIA GPU clusters, HPE AI Essentials, distributed training nodes, and real-time inference gateways).
+**FinOps & Strategic Consulting Practice** operates mission-critical AIOps platforms, automated incident triage, and enterprise service lifecycle infrastructure for high-scale computing environments (NVIDIA GPU clusters, HPE AI Essentials, distributed training nodes, and real-time inference gateways).
 
 ### The Core Operational Bottleneck
 Enterprise client contracts enforce strict, binding Service Level Agreements (SLAs). Any incident that breaches its resolution window incurs severe financial penalties (*Service Credits / SLA Breach Penalties*) ranging from **$1,500 to $15,000 USD per hour** past the SLA threshold, with liability ceilings reaching **$150,000 USD** per event and triggering catastrophic contract churn risk (ARR erosion).

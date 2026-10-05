@@ -1,6 +1,6 @@
 """
 tests/benchmark.py - Production Quantitative Latency & Heap Memory Benchmark.
-Enterprise: Servicelab AI - SLA Hazard & Linear Optimization Engine.
+Enterprise: FinOps & Strategic Consulting Practice - SLA Hazard & Linear Optimization Engine.
 
 Measures:
   1. Columnar Ingestion & Hazard Filtering (Polars, SLA p95 < 50.0 ms).
@@ -81,7 +81,7 @@ def run_benchmarks(iterations: int = 30, num_records: int = 10000):
         throughput_ops = round(1.0 / max(total_mean_sec, 0.001), 1)
 
         print("\n" + "=" * 74)
-        print("  SERVICELAB AI LINEAR OPTIMIZATION ENGINE - QUANTITATIVE BENCHMARK REPORT")
+        print("  FinOps & Strategic Consulting Practice LINEAR OPTIMIZATION ENGINE - QUANTITATIVE BENCHMARK REPORT")
         print("=" * 74)
         print(f"  Dataset Population       : {num_records:,} total historical observations")
         print(f"  Profiling Iterations     : {iterations} passes")

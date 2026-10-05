@@ -1,6 +1,6 @@
 """
 tests/test_suite.py - Production-Grade Mathematical & Domain Invariant Test Suite.
-Enterprise: Servicelab AI - SLA Hazard & Linear Optimization Engine.
+Enterprise: FinOps & Strategic Consulting Practice - SLA Hazard & Linear Optimization Engine.
 
 Coverage:
   1. Stochastic data generation physics and Weibull hazard bounds.

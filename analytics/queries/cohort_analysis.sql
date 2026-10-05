@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- cohort_analysis.sql
--- Servicelab AI - Enterprise Client SLA Cohort Retention & Breach Analysis
+-- FinOps & Strategic Consulting Practice - Enterprise Client SLA Cohort Retention & Breach Analysis
 --
 -- Objective:
 --   Evaluates client contract cohorts grouped by initial incident onboarding month.

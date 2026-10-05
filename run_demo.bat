@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo ================================================================================
-echo   SERVICELAB AI: SLA HAZARD AND LINEAR OPTIMIZATION ENGINE
+echo   FinOps & Strategic Consulting Practice: SLA HAZARD AND LINEAR OPTIMIZATION ENGINE
 echo   Automated Execution, Verification, Benchmarks and CI Guards
 echo ================================================================================
 echo.

@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 07_sla_financial_risk_monte_carlo_distribution.sql
--- Servicelab AI - Financial Risk Exposure Distribution & Value at Risk (VaR)
+-- FinOps & Strategic Consulting Practice - Financial Risk Exposure Distribution & Value at Risk (VaR)
 --
 -- Objective:
 --   Evaluates tail-risk distributions of contractual SLA financial penalties.

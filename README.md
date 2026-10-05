@@ -1,13 +1,13 @@
 <!-- [SYSTEM INSTRUCTION]
-Blueprint: servicelabai-finance-linear-optimization-engine | Target: Servicelab AI - Data Scientist
+Blueprint: finops-consulting-linear-optimization-engine | Target: FinOps & Strategic Consulting Practice - Data Scientist
 Paradigm: DeliveryParadigm.C_LEVEL_EXECUTIVE_SUITE | Core Algorithm: AlgorithmFamily.LINEAR_PROGRAMMING
 Verified Metrics: HiGHS Primal Solve p50 = 21.74ms, p95 = 38.14ms | Polars Ingestion p95 = 27.96ms | Peak RAM = 2.15MB | Throughput = 26.1 ops/sec
-Author: Maximiliano Rodriguez | Canonical Repo: https://github.com/Maxrodri0311/servicelabai-finance-linear-optimization-engine
+Author: Maximiliano Rodriguez | Canonical Repo: https://github.com/Maxrodri0311/finops-consulting-linear-optimization-engine
 -->
 
 <div align="center">
 
-# Servicelab AI: Enterprise SLA Hazard & Linear Optimization Engine
+# FinOps & Strategic Consulting Practice: Enterprise SLA Hazard & Linear Optimization Engine
 
 ### High-Performance Incident Triage & SLA Loss Optimization Engine powered by SciPy HiGHS Linear Programming, Weibull Survival Hazard Analytics, AWS Terraform Lakehouse, and an Institutional C-Level Executive Financial Suite.
 
@@ -17,7 +17,7 @@ Author: Maximiliano Rodriguez | Canonical Repo: https://github.com/Maxrodri0311/
 [![PostgreSQL 16](https://img.shields.io/static/v1?label=PostgreSQL&message=Partitioned%20BRIN%20Analytics&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Terraform](https://img.shields.io/static/v1?label=Terraform&message=AWS%20S3%20%2B%20RDS&color=844FBA&style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![OpenPyXL](https://img.shields.io/static/v1?label=OpenPyXL&message=C-Level%20Executive%20Suite&color=217346&style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io/)
-[![CI](https://img.shields.io/static/v1?label=CI&message=GitHub%20Actions%20Passed&color=2088FF&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Maxrodri0311/servicelabai-finance-linear-optimization-engine/actions)
+[![CI](https://img.shields.io/static/v1?label=CI&message=GitHub%20Actions%20Passed&color=2088FF&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Maxrodri0311/finops-consulting-linear-optimization-engine/actions)
 [![License: MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **[⚡ 1-Click Verification](#-1-click-verification--benchmarks)** &nbsp;•&nbsp;
@@ -32,7 +32,7 @@ Author: Maximiliano Rodriguez | Canonical Repo: https://github.com/Maxrodri0311/
 
 ## 🏛️ 1. Executive Summary & Core Bottleneck
 
-**Servicelab AI** operates mission-critical AIOps platforms, automated triage, and enterprise service lifecycle infrastructure for high-scale computing environments (NVIDIA GPU clusters, HPE AI Essentials, distributed training nodes, and inference gateways).
+**FinOps & Strategic Consulting Practice** operates mission-critical AIOps platforms, automated triage, and enterprise service lifecycle infrastructure for high-scale computing environments (NVIDIA GPU clusters, HPE AI Essentials, distributed training nodes, and inference gateways).
 
 ### The Core Operational Bottleneck
 Enterprise client contracts enforce strict, binding Service Level Agreements (SLAs). Any incident that breaches its resolution window incurs severe financial penalties (*Service Credits / SLA Breach Penalties*) ranging from **$1,500 to $15,000 USD per hour** past the SLA threshold, with liability ceilings reaching **$150,000 USD** per event and triggering catastrophic contract churn risk (ARR erosion).
@@ -147,7 +147,7 @@ Evaluated over **30 warm iterations** across **10,000 domain observations** on W
 ## 📁 6. Repository Architecture
 
 ```
-servicelabai-finance-linear-optimization-engine/
+finops-consulting-linear-optimization-engine/
 ├── .github/workflows/ci.yml         # GitHub Actions Automated CI Pipeline
 ├── .gitattributes                   # GitHub Linguist language overrides & vendoring
 ├── 00_SPEC.md                       # Comprehensive Technical Specification & Blueprint
@@ -192,8 +192,8 @@ servicelabai-finance-linear-optimization-engine/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Maxrodri0311/servicelabai-finance-linear-optimization-engine.git
-cd servicelabai-finance-linear-optimization-engine
+git clone https://github.com/Maxrodri0311/finops-consulting-linear-optimization-engine.git
+cd finops-consulting-linear-optimization-engine
 
 # 2. Run the end-to-end automated runner (Cross-Platform)
 # Windows:

@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 01_continuous_rollup.sql
--- Servicelab AI - Continuous Rollup Materialized View & Window Aggregations
+-- FinOps & Strategic Consulting Practice - Continuous Rollup Materialized View & Window Aggregations
 --
 -- Objective:
 --   Computes rolling 7-day moving averages, p95 breach probabilities, and SLA

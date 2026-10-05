@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 05_sla_breach_penalty_elasticity.sql
--- Servicelab AI - SLA Breach Penalty Elasticity & Shadow Price Derivatives
+-- FinOps & Strategic Consulting Practice - SLA Breach Penalty Elasticity & Shadow Price Derivatives
 --
 -- Objective:
 --   Evaluates the marginal elasticity of financial penalty mitigation with respect

@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 04_linear_resource_pareto_frontier.sql
--- Servicelab AI - Multi-Objective Pareto Optimal Frontier & MRTS Engine
+-- FinOps & Strategic Consulting Practice - Multi-Objective Pareto Optimal Frontier & MRTS Engine
 --
 -- Objective:
 --   Computes the non-dominated Pareto frontier trading off operational support

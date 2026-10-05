@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 00_schema_ddl.sql
--- Servicelab AI - Analytical Lakehouse DDL & Partitioning Schema
+-- FinOps & Strategic Consulting Practice - Analytical Lakehouse DDL & Partitioning Schema
 --
 -- Target: PostgreSQL 16 Enterprise / Amazon RDS Multi-AZ Aurora
 -- Role: Data Scientist

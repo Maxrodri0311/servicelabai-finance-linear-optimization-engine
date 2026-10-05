@@ -1,5 +1,5 @@
 """
-src/core_engine.py - Core Algorithmic & Linear Optimization Engine for Servicelab AI.
+src/core_engine.py - Core Algorithmic & Linear Optimization Engine for FinOps & Strategic Consulting Practice.
 Architecture: Decoupled Multi-Tier Domain adhering strictly to Dependency Inversion (DIP).
 Core Algorithm: Constrained Linear Programming (SciPy HiGHS Simplex & Interior Point Solvers).
 Perspective: Causal & Survival Lifecycle Analytics (Weibull Hazard Rate & SLA Breach Mitigation).
@@ -453,7 +453,7 @@ if __name__ == "__main__":
     tradeoff = OptimizationComparisonService.evaluate_tradeoff(incidents, resources, max_budget_usd=75000.0)
 
     print("\n" + "=" * 76)
-    print(" [*] SERVICELAB AI - SLA HAZARD & LINEAR OPTIMIZATION BENCHMARK")
+    print(" [*] FinOps & Strategic Consulting Practice - SLA HAZARD & LINEAR OPTIMIZATION BENCHMARK")
     print("=" * 76)
     print(f" Incidents in Triage Queue      : {tradeoff['total_incidents']} critical/high incidents")
     print(f" Total Unmitigated Exposure     : ${tradeoff['total_unmitigated_financial_risk_usd']:,.2f}")

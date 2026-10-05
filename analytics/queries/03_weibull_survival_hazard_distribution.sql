@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- 03_weibull_survival_hazard_distribution.sql
--- Servicelab AI - Parametric Weibull Survival & Actuarial Life Tables
+-- FinOps & Strategic Consulting Practice - Parametric Weibull Survival & Actuarial Life Tables
 --
 -- Objective:
 --   Constructs empirical and parametric survival curves S(t), Nelson-Aalen
